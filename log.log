@@ -1,0 +1,36 @@
+16:41:16 UPDATE: a
+16:41:17 UPDATE: ab
+16:41:18 UPDATE: abc
+16:41:20 UPDATE: abcor
+16:41:21 UPDATE: abcorp
+16:41:22 UNDO: abcor
+16:41:23 UNDO: abc
+16:41:25 UPDATE: abct
+16:41:26 UPDATE: abcty
+16:41:27 UNDO: abct
+16:41:27 UNDO: abc
+16:41:27 UNDO: ab
+16:41:29 UPDATE: abre
+16:41:30 UPDATE: abreji
+16:41:31 UPDATE: 
+16:41:32 UPDATE: je
+16:41:33 UPDATE: jedz su
+16:41:34 UPDATE: jedz suchary
+16:41:35 UPDATE: jedz suchary, 
+16:41:46 UPDATE: jedz suchary, ni
+16:41:47 UPDATE: jedz suchary, nic tyl
+16:41:48 UPDATE: jedz suchary, nic tylko s
+16:41:49 UPDATE: jedz suchary, nic tylko sucha
+16:41:51 UPDATE: jedz suchary, nic tylko suchary
+16:41:52 UNDO: jedz suchary, nic tylko sucha
+16:41:53 UNDO: jedz suchary, nic tylko s
+16:41:53 UNDO: jedz suchary, nic tyl
+16:41:55 UPDATE: jedz suchary, nic tylko 
+16:41:57 UPDATE: jedz suchary, nic tylko ki
+16:41:58 UPDATE: jedz suchary, nic tylko kisiel
+16:42:02 UNDO: jedz suchary, nic tylko ki
+16:42:02 UNDO: jedz suchary, nic tylko 
+16:42:03 REDO: jedz suchary, nic tylko ki
+16:42:07 UPDATE: jedz suchary, nic tylko kit
+16:42:11 UPDATE: jedz suchary, nic 
+16:42:13 UPDATE: 
